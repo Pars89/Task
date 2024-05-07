@@ -1,4 +1,6 @@
-# Task
+# Task 
+
+## Программа сортировки слиянием нескольких файлов.
 -Java 15
 
 Для запуска программы:
@@ -12,7 +14,7 @@
 
 ![image](https://github.com/Pars89/Task/assets/74140385/c551dfa5-0be9-4585-9dc2-0fe3065abfb5)
 
-6. Появится новый файл out.txt
+4. Появится новый файл out.txt
 
 ![image](https://github.com/Pars89/Task/assets/74140385/3ef3b621-54fa-454b-9ddc-51ef0ed513d6)
 
